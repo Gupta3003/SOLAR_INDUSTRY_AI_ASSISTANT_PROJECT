@@ -1,1 +1,3 @@
-# SOLAR_INDUSTRY_AI_ASSISTANT_PROJECT
+# Solar Industry AI Assistant
+
+This tool analyzes rooftop images to suggest solar panel installations.
