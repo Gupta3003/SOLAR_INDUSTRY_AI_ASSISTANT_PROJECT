@@ -44,12 +44,11 @@ solar_industry_ai_assistant/
 ├── backend/             # Flask API
 │   └── app.py
 ├── frontend/            # Streamlit UI
-│   └── app.py
-├── example_images/      # Example rooftop images
-├── sample_output/       # AI output samples (JSON/text)
-├── .env.example         # Placeholder for your OpenRouter API key
+│   └── streamlit_app.py
 ├── requirements.txt     # Python dependencies
 ├── README.md            # You're reading it!
+├── requirements.txt     # requriments. txt file
+├── .gitignore           # contain enviroment varible and .env OpenRouter API key holder
 ```
 
 ---
@@ -79,7 +78,7 @@ python app.py
 In a separate terminal:
 ```bash
 cd frontend
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ---
