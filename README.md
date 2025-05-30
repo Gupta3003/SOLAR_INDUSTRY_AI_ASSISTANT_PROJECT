@@ -84,6 +84,18 @@ streamlit run app.py
 
 ---
 
+## Frontend Interface
+
+### Screenshots
+
+| Solar Rooftop Analysis Assistant     | Result Analysis                                                                                                                             |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|![Image](https://github.com/user-attachments/assets/a5b24bbe-1215-4e83-8a0a-1bce1ac67b20)| ![Image](https://github.com/user-attachments/assets/375c3591-ab40-4d4e-93b0-2d3e8d377cba)|
+
+
+### Demo Vedio
+https://github.com/user-attachments/assets/9f82cf33-8c60-4b2b-8060-37da75c04312
+
 ## 🧪 Example Use Case
 
 1. Open the Streamlit app in your browser.
