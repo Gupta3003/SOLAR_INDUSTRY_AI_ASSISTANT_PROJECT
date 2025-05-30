@@ -1,2 +1,6 @@
 # Adding venv file
 venv
+
+#adding .env
+.env
+
