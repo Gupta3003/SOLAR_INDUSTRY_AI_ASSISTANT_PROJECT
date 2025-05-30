@@ -111,7 +111,3 @@ streamlit run app.py
 - Implement login/auth system for multiple users
 
 ---
-
-## 📬 Contact / Questions
-
-Feel free to reach out if you have questions about integration, deployment, or using other models.
